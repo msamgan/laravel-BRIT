@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "msamgan/brit",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "The skeleton application for the Laravel framework with modifications.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
