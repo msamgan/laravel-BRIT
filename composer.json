@@ -1,5 +1,6 @@
 {
     "name": "msamgan/brit",
+    "version": "1.0.0",
     "type": "project",
     "description": "The skeleton application for the Laravel framework with modifications.",
     "keywords": ["laravel", "framework"],
